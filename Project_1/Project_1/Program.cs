@@ -28,7 +28,25 @@ namespace Project_1
             Console.WriteLine("");
         }
 
-        static bool[] ListOfPrimes(int n)
+        static void ListOfPrimes( int n)
+        {
+            bool itsInteger = false;
+            
+            Console.WriteLine("The list of primes present in integers up to number " + n + " are:");
+            for (int i = 2;  i <= n; i++) //List of numbers from 1 to n
+            {
+                itsInteger = true;
+                for (int j = 2; j < i; j++)
+                {
+                    if (i % j == 0) itsInteger = false;
+                }
+                
+                if (itsInteger) Console.Write(i + "\t");
+            }
+            Console.Write("\n");
+        }
+
+        /*static bool[] ListOfPrimes(int n)
         {
             bool[] primes = new bool[n];
 
@@ -76,7 +94,7 @@ namespace Project_1
             Console.WriteLine("");
 
             return primes;
-        }
+        }*/
         static void Main(string[] args)
         {
             int firstOperand = 0;
@@ -108,8 +126,7 @@ namespace Project_1
                 else Console.WriteLine("The number " + firstOperand + " is not divisible by " + secondOperand + ".");
 
                 //FINDING ALL THE PRIME NUMBER BELOW THE FIRST INPUT
-                bool[] result = new bool[firstOperand];
-                result = Program.ListOfPrimes(firstOperand);
+                Program.ListOfPrimes(firstOperand);
 
                 try
                 {
