@@ -45,56 +45,6 @@ namespace Project_1
             }
             Console.Write("\n");
         }
-
-        /*static bool[] ListOfPrimes(int n)
-        {
-            bool[] primes = new bool[n];
-
-            primes[0] = false; //1 is not a prime number
-            primes[1] = true; //2 is a prime number
-            //Console.Write("1\t2\t");
-
-            for (int i = 2; i < primes.Length; i++)
-            {
-                //Console.Write((i + 1) + "\t");
-                primes[i] = true;
-            }
-            Console.WriteLine("");
-            // Program.PrintArrayBool(primes);
-
-            //Sieve of Eratosthenes method
-            for (int i = 1; i < primes.Length; i++)
-            {
-                if (primes[i]) //If a number is prime we tested.
-                {
-                    //Console.WriteLine("Current prime = " + (i + 1));
-                    //Confirm if i is indeed a prime
-                    for (int j = 1; j < i; j++)
-                    {
-                        if ((i + 1) % (j + 1) == 0) primes[i] = false;
-                    }
-                    //Program.PrintArrayBool(primes);
-                }
-                if (primes[i])  //If i+1 is indeed a prime find all its multiples up to n.
-                {
-                    int numberOfMultiples = primes.Length / (i + 1);
-                    for (int j = 2; j < numberOfMultiples; j++)
-                    {
-                        primes[(j * (i + 1) - 1)] = false;
-                    }
-                }
-                //Program.PrintArrayBool(primes);
-            }//End of for
-
-            //Displaying result
-            for (int k = 0; k < primes.Length; k++)
-            {
-                if (primes[k]) Console.Write((k + 1) + "\t");
-            }
-            Console.WriteLine("");
-
-            return primes;
-        }*/
         static void Main(string[] args)
         {
             int firstOperand = 0;
