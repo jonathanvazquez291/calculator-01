@@ -1,0 +1,17 @@
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\obj\Debug\net8.0-windows\Solution2_WindowsFormInterface.Project1_Interface.resources
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\obj\Debug\net8.0-windows\Solution2_WindowsFormInterface.csproj.GenerateResource.cache
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\obj\Debug\net8.0-windows\Solution2_WindowsFormInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\obj\Debug\net8.0-windows\Solution2_WindowsFormInterface.AssemblyInfoInputs.cache
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\obj\Debug\net8.0-windows\Solution2_WindowsFormInterface.AssemblyInfo.cs
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\obj\Debug\net8.0-windows\Solution2_WindowsFormInterface.csproj.CoreCompileInputs.cache
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\obj\Debug\net8.0-windows\Solution2_WindowsFormInterface.sourcelink.json
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\bin\Debug\net8.0-windows\Solution2_WindowsFormInterface.exe
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\bin\Debug\net8.0-windows\Solution2_WindowsFormInterface.deps.json
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\bin\Debug\net8.0-windows\Solution2_WindowsFormInterface.runtimeconfig.json
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\bin\Debug\net8.0-windows\Solution2_WindowsFormInterface.dll
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\bin\Debug\net8.0-windows\Solution2_WindowsFormInterface.pdb
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\obj\Debug\net8.0-windows\Solution2_WindowsFormInterface.dll
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\obj\Debug\net8.0-windows\refint\Solution2_WindowsFormInterface.dll
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\obj\Debug\net8.0-windows\Solution2_WindowsFormInterface.pdb
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\obj\Debug\net8.0-windows\Solution2_WindowsFormInterface.genruntimeconfig.cache
+D:\GitHub\calculator-01\Project_1\Solution2_WindowsFormInterface\obj\Debug\net8.0-windows\ref\Solution2_WindowsFormInterface.dll
