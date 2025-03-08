@@ -1,0 +1,7 @@
+D:\GitHub\calculator-01\Project_1\Project_1\bin\Debug\Project_1.exe.config
+D:\GitHub\calculator-01\Project_1\Project_1\bin\Debug\Project_1.exe
+D:\GitHub\calculator-01\Project_1\Project_1\bin\Debug\Project_1.pdb
+D:\GitHub\calculator-01\Project_1\Project_1\obj\Debug\Project_1.csproj.AssemblyReference.cache
+D:\GitHub\calculator-01\Project_1\Project_1\obj\Debug\Project_1.csproj.CoreCompileInputs.cache
+D:\GitHub\calculator-01\Project_1\Project_1\obj\Debug\Project_1.exe
+D:\GitHub\calculator-01\Project_1\Project_1\obj\Debug\Project_1.pdb

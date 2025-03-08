@@ -1,0 +1,15 @@
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\obj\Debug\net8.0\Solution2_FermatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\obj\Debug\net8.0\Solution2_FermatNumbers.AssemblyInfoInputs.cache
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\obj\Debug\net8.0\Solution2_FermatNumbers.AssemblyInfo.cs
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\obj\Debug\net8.0\Solution2_FermatNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\obj\Debug\net8.0\Solution2_FermatNumbers.sourcelink.json
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\bin\Debug\net8.0\Solution2_FermatNumbers.exe
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\bin\Debug\net8.0\Solution2_FermatNumbers.deps.json
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\bin\Debug\net8.0\Solution2_FermatNumbers.runtimeconfig.json
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\bin\Debug\net8.0\Solution2_FermatNumbers.dll
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\bin\Debug\net8.0\Solution2_FermatNumbers.pdb
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\obj\Debug\net8.0\Solution2_FermatNumbers.dll
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\obj\Debug\net8.0\refint\Solution2_FermatNumbers.dll
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\obj\Debug\net8.0\Solution2_FermatNumbers.pdb
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\obj\Debug\net8.0\Solution2_FermatNumbers.genruntimeconfig.cache
+D:\GitHub\calculator-01\Project_1\Solution2_FermatNumbers\obj\Debug\net8.0\ref\Solution2_FermatNumbers.dll

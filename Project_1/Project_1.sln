@@ -1,9 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35521.163 d17.12
+VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_1", "Project_1\Project_1.csproj", "{A19F7D40-9DCF-445D-B81F-61C04E6D874E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution2_FermatNumbers", "Solution2_FermatNumbers\Solution2_FermatNumbers.csproj", "{2F9518A3-EA30-4BB1-BC0F-0DDB3F26EFE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution2_WindowsFormInterface", "Solution2_WindowsFormInterface\Solution2_WindowsFormInterface.csproj", "{FF444400-FF07-4618-A4BE-E893844555A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution3_TriangularNumbers", "Solution3_TriangularNumbers\Solution3_TriangularNumbers.csproj", "{7589A716-CBEE-4773-8B6B-9D7A9F5BF7DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution4_SortingIntegers", "Solution4_SortingIntegers\Solution4_SortingIntegers.csproj", "{2C3AFD81-A404-40E8-AEA5-884001FA909E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +23,27 @@ Global
 		{A19F7D40-9DCF-445D-B81F-61C04E6D874E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A19F7D40-9DCF-445D-B81F-61C04E6D874E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A19F7D40-9DCF-445D-B81F-61C04E6D874E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9518A3-EA30-4BB1-BC0F-0DDB3F26EFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9518A3-EA30-4BB1-BC0F-0DDB3F26EFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9518A3-EA30-4BB1-BC0F-0DDB3F26EFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9518A3-EA30-4BB1-BC0F-0DDB3F26EFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF444400-FF07-4618-A4BE-E893844555A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF444400-FF07-4618-A4BE-E893844555A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF444400-FF07-4618-A4BE-E893844555A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF444400-FF07-4618-A4BE-E893844555A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7589A716-CBEE-4773-8B6B-9D7A9F5BF7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7589A716-CBEE-4773-8B6B-9D7A9F5BF7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7589A716-CBEE-4773-8B6B-9D7A9F5BF7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7589A716-CBEE-4773-8B6B-9D7A9F5BF7DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3AFD81-A404-40E8-AEA5-884001FA909E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3AFD81-A404-40E8-AEA5-884001FA909E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3AFD81-A404-40E8-AEA5-884001FA909E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3AFD81-A404-40E8-AEA5-884001FA909E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E1F5507-751B-4454-BE2E-658DEAA00D22}
 	EndGlobalSection
 EndGlobal

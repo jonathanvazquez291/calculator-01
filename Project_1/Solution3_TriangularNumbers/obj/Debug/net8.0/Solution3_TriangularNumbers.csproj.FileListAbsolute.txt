@@ -1,0 +1,15 @@
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\obj\Debug\net8.0\Solution3_TriangularNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\obj\Debug\net8.0\Solution3_TriangularNumbers.AssemblyInfoInputs.cache
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\obj\Debug\net8.0\Solution3_TriangularNumbers.AssemblyInfo.cs
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\obj\Debug\net8.0\Solution3_TriangularNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\obj\Debug\net8.0\Solution3_TriangularNumbers.sourcelink.json
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\bin\Debug\net8.0\Solution3_TriangularNumbers.exe
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\bin\Debug\net8.0\Solution3_TriangularNumbers.deps.json
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\bin\Debug\net8.0\Solution3_TriangularNumbers.runtimeconfig.json
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\bin\Debug\net8.0\Solution3_TriangularNumbers.dll
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\bin\Debug\net8.0\Solution3_TriangularNumbers.pdb
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\obj\Debug\net8.0\Solution3_TriangularNumbers.dll
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\obj\Debug\net8.0\refint\Solution3_TriangularNumbers.dll
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\obj\Debug\net8.0\Solution3_TriangularNumbers.pdb
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\obj\Debug\net8.0\Solution3_TriangularNumbers.genruntimeconfig.cache
+D:\GitHub\calculator-01\Project_1\Solution3_TriangularNumbers\obj\Debug\net8.0\ref\Solution3_TriangularNumbers.dll
